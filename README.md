@@ -48,7 +48,7 @@ Lending Club historical loan data (peer-to-peer lending, 2007–2020) — free o
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/avanit-singh/loan-default-risk-analytics>
 cd loan-default-risk-analytics
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
