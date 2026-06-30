@@ -60,4 +60,4 @@ _To be filled in as each phase completes: key findings, model performance, dashb
 
 ## Author
 
-[Your Name] — [LinkedIn] · [Portfolio]
+Avanit Singh — https://www.linkedin.com/in/avsinghs24/
